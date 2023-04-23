@@ -1,0 +1,43 @@
+.bg{
+    width: 600px;
+    height:500px;
+    background: repeating-radial-gradient(circle at 50% 50%,#333,#000 1%);
+    margin: 50px auto;
+    padding: 40px;border-radius: 50%;
+    border:10px solid #cccc;
+
+}
+.bian{
+    border-style:double ;
+    background-color:olivedrab ;
+    padding-left:40px ;
+}
+ul li{
+    width: 372px;
+    height: 530px;
+    margin: 0 auto;
+}
+ul li{
+    list-style: none;
+    background: #333333;
+    color: white;
+    line-height: 50px;
+    font-size: 20px;
+    background:#504d58 url("html/image/yinfu.png") no-repeat 70px 20px;
+    /*background-image: url("html/image/yinfu.png");*/
+    text-align: center;
+
+
+}
+.tp{
+    width: 372px;
+    height: 247px;
+    background: #ffffff;
+    background-image: url("html/image/yinyue.jpg"),url("html/image/wenzi.jpg");
+    background-repeat:no-repeat;
+    background-position: 87px 16px,99px 192px;
+    border-radius: 30px 30px 0 0 ;
+}
+.yj{
+    border-radius: 30px 30px 0 0;
+}
